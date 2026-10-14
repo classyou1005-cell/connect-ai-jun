@@ -7,3 +7,4 @@ preview.html
 releases/
 .env
 *.bak.*
+tools/image-text-fix/fonts/*.otf

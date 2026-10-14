@@ -43,3 +43,6 @@ preview.html
 # Nested duplicate copies (user dragged folders into multiple paths)
 assets/pixel/characters/Modern_Office_Revamped_v1/**
 assets/pixel/characters/moderninteriors-win/**
+
+# 이미지 글씨 교체 도구 (Python) — 확장 프로그램과 무관
+tools/**
